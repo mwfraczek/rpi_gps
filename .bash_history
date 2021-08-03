@@ -421,3 +421,43 @@ ls
 cd
 ls -l
 find / -name "*.git" -type d
+ls -l
+cd home/pi/rpi-sense
+cd /home/pi/rpi-sense/
+ls
+cd..
+cd /home/pi/
+cd /home/pi/.git/
+ls -l
+cd info/
+cd //
+ls -l
+cd ..
+cd
+ls -l
+~/.git
+ls -l
+cd /home/pi/.git/
+ls -l
+nano in
+nano index 
+ls -l
+cd 
+git config
+git config --global 
+git config --global user.email "mwfraczek@icloud.com"
+ls -
+ls
+git add .
+ls -l
+cd /home/pi/.git
+ls -l
+cd branches/
+ls
+cd ..
+nano HEAD 
+ls -l
+cd
+ls -l
+mk 
+git
